@@ -6,7 +6,7 @@ const data = {
     { ad: "BOUNTY", kod: "271 6263", sekil: "BOUNTY.png" },
     { ad: "RAHAT FINDIQLI KARAMEL", kod: "271 8258", sekil: "RAHAT-FİNDİQLİ-KARAMEL.png" },
     { ad: "KDV FENSİ SÜDLÜ TOFFİ", kod: "271 8022", sekil: "KDV-FENSİ-SUDLU-TOFFİ.png" },
-    { ad: "ROSHEN JONNY KROCKER", kod: "271 8299", sekil: "ROSHEN-JONNY-KROCKER.png" },
+    { ad: "ROSHEN JONNY KROCKER", kod: "271 8299", sekil: "ROSHEN-JONNY-KROCKER.png" }
   ],
   "Toyuq məhsulları": [
     { ad: "SİYƏZƏN QIRMIZI PAKET", kod: "271 6068" },
