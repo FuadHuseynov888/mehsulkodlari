@@ -4,6 +4,7 @@ const data = {
     { ad: "TWIX", kod: "271 6262", sekil: "TWIX.png" },
     { ad: "SNICKERS", kod: "271 6261", sekil: "SNICKERS.png" },
     { ad: "BOUNTY", kod: "271 6263", sekil: "BOUNTY.png" },
+    { ad: "RAHAT FINDIQLI KARAMEL", kod: "271 8258", sekil: "RAHAT-FİNDİQLİ-KARAMEL.png" },
   ],
   "Toyuq məhsulları": [
     { ad: "SİYƏZƏN QIRMIZI PAKET", kod: "271 6068" },
